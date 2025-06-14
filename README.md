@@ -1,7 +1,7 @@
 ## Hi I'm Clémence! 👋
 
 🌱 Student at [CESI Engineering School](https://www.cesi.fr/formation/ingenieur-e-informatique-cursus-en-3-ans-par-lapprentissage-2513617/) in Computer Science <br/>
-🔭 Passionate about web devlopment and software engineering <br/>
+🔭 Passionate about web development and software engineering <br/>
 📫 You can reach me by email : clemence.dumontlespinats@viacesi.fr <br/>
 
 <!-- stats from https://github.com/anuraghazra/github-readme-stats -->
