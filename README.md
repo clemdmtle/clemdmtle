@@ -7,8 +7,6 @@
 <!-- stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clemdmtle&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clemdmtle)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
