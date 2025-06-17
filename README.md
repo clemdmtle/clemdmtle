@@ -5,7 +5,6 @@
 📫 You can reach me by email : clemence.dumontlespinats@viacesi.fr <br/>
 
 <!-- stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clemdmtle&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
